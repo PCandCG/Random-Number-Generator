@@ -7,5 +7,6 @@ int main() {
 		randomNumber = rand();
 		cout << randomNumber << endl;
 	}
+	system("PAUSE");
 	return 0;
 }
